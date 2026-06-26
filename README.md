@@ -131,7 +131,18 @@ README.md
 * Build interactive date filters
 * Incorporate cohort and retention analysis
 * Compare user behavior across marketing campaigns
-
+GA4
+ │
+ ▼
+BigQuery
+(SQL Views & Tables)
+ │
+ ▼
+Looker Studio
+(4 Interactive Dashboards)
+ │
+ ▼
+Business Recommendations
 ---
 
 ## Author
